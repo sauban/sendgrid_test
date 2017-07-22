@@ -1,0 +1,3 @@
+sendgrid.env
+*.swp
+node_modules/
